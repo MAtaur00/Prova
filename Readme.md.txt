@@ -1,3 +1,0 @@
-# Títol
-
-Simple readme
